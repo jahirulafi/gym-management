@@ -19,6 +19,6 @@ Username: admin@gmail.com
 Password: Test@12345
 
 ********************User Credential********************
-Username: john@test.com
+Username: afi@test.com
 Password: Test@123
 or Register a new user
